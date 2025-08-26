@@ -15,3 +15,5 @@ How to Create your first GitHub repository:
 7. Click "Create Repository".
 
 Now, you're have a new GitHub Repository page! 
+
+Some helpful links for the Markdown:  https://guides.github.com/features/mastering- markdown
