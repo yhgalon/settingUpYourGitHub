@@ -1,6 +1,6 @@
 # settingUpYourGitHub
 
-Credits to GitHub for Dummies, Second Edition (Sarah Guthals)
+Credits to GitHub for Dummies, Second Edition ([Sarah Guthals](https://github.com/drguthals))
 
 How to Create your first GitHub repository:
 
