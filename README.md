@@ -16,4 +16,4 @@ How to Create your first GitHub repository:
 
 Now, you're have a new GitHub Repository page! 
 
-Some helpful links for the Markdown:  https://guides.github.com/features/mastering- markdown
+Some helpful links for the Markdown:  https://guides.github.com/features/mastering-markdown
